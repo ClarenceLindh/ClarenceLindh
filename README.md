@@ -25,8 +25,8 @@ Full stack developer
 ![](https://github-readme-stats-sigma-five.vercel.app/api?username=ClarenceLindh&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=ClarenceLindh&theme=nightowl&hide_border=false)<br/>
 ![](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=ClarenceLindh&theme=nightowl&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
-
+<!--
 ---
 [![](https://visitcount.itsvg.in/api?id=ClarenceLindh&icon=6&color=1)](https://visitcount.itsvg.in)
-
+-->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
